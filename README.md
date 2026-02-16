@@ -35,7 +35,7 @@ import requests
 
 URL = "https://data.fixer.io/api/symbols"
 
-API = "fbd212a848efe29f1d103c06a530cf0c"
+API = "API Key here"
 
 #Making a variable that contains the data for the symbols
 response = requests.get(
